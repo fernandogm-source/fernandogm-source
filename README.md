@@ -30,7 +30,7 @@
 
 ### 📦 Proyecto Destacado
 
-#### 🔹 [Fusions3D](#)
+#### 🔹 [Fusions3D](https://github.com/fernandogm-source/fusions3D)
 > Proyecto de estudiante enfocado en tienda de objetos impresos en 3D.
 
 - **Stack principal:** Express.js | Angular.ts | MongoDB / PostgreSQL
